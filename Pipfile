@@ -12,6 +12,7 @@ seaborn = "*"
 scipy = "*"
 scikit-learn = "*"
 tensorflow = "*"
+mglearn = "*"
 
 [dev-packages]
 
